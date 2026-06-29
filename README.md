@@ -1,2 +1,0 @@
-# kantin-pintar
-kantin
