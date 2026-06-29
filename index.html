@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kantin Pintar Kampus</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="navbar">
+      <h2>Kantin Pintar</h2>
+      <ul>
+        <li><a href="#tentang">Tentang</a></li>
+        <li><a href="#fitur">Fitur</a></li>
+        <li><a href="#tim">Tim</a></li>
+        <li><a href="#sprint">Sprint</a></li>
+      </ul>
+    </nav>
+
+    <div class="hero-content">
+      <h1>Aplikasi Mobile Kantin Pintar Kampus</h1>
+      <p>Proyek penyelamatan aplikasi kantin kampus menggunakan Scrum, fokus pada login, pilih menu, dan pembayaran.</p>
+      <a href="#fitur" class="btn">Lihat Fitur</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="tentang" class="section">
+      <h2>Tentang Proyek</h2>
+      <p>
+        Proyek ini sebelumnya mandek di 50% karena kode berantakan, dokumentasi API tidak ada,
+        serta konflik komunikasi antara backend dan frontend. Tim baru membuat rencana kerja 2 minggu
+        untuk memperbaiki proses kerja dan menyelesaikan fitur utama aplikasi.
+      </p>
+    </section>
+
+    <section id="fitur" class="section gray">
+      <h2>Fitur Utama</h2>
+      <div class="cards">
+        <div class="card">
+          <h3>Login</h3>
+          <p>Mahasiswa dapat masuk ke aplikasi dengan validasi token dan pengujian skenario login.</p>
+        </div>
+        <div class="card">
+          <h3>Pilih Menu</h3>
+          <p>Daftar menu kantin tampil rapi dengan kategori dan format data JSON yang distandarkan.</p>
+        </div>
+        <div class="card">
+          <h3>Pembayaran</h3>
+          <p>Pengguna dapat melakukan checkout dan pembayaran mode sandbox sebelum aplikasi live.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="tim" class="section">
+      <h2>Anggota Tim</h2>
+      <div class="team">
+        <div><strong>Surya</strong><span>Backend Developer</span></div>
+        <div><strong>Kaffah</strong><span>Frontend Developer</span></div>
+        <div><strong>Deswa</strong><span>Scrum Master & QA</span></div>
+      </div>
+    </section>
+
+    <section id="sprint" class="section gray">
+      <h2>Scrum Board</h2>
+      <div class="board">
+        <div class="column">
+          <h3>To Do</h3>
+          <p>Endpoint keranjang & checkout</p>
+          <p>Desain UI keranjang</p>
+          <p>Payment gateway sandbox</p>
+        </div>
+        <div class="column">
+          <h3>In Progress</h3>
+          <p>Standarisasi JSON menu</p>
+          <p>Endpoint daftar menu</p>
+        </div>
+        <div class="column">
+          <h3>Review</h3>
+          <p>Desain UI login</p>
+        </div>
+        <div class="column">
+          <h3>Done</h3>
+          <p>Endpoint API login</p>
+          <p>Integrasi login</p>
+          <p>Testing login</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Tim Konsultan IT — Kantin Pintar Kampus</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
