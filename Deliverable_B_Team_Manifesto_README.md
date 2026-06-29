@@ -43,7 +43,7 @@ Tim sebelumnya bubar karena tiga masalah utama yang manifesto ini secara spesifi
 
 Tujuan aturan ini: memastikan kritik membangun, bukan menyerang — sumber konflik utama tim sebelumnya.
 
-| ❌ Dilarang | ✅ Dianjurkan | Mengapa |
+|  Dilarang |  Dianjurkan | Mengapa |
 |---|---|---|
 | "Kode ini berantakan banget." | "Bagian ini bisa lebih rapi kalau dipecah jadi fungsi terpisah, gimana menurutmu?" | Fokus ke solusi, bukan penilaian personal |
 | "Kok bisa kepikiran begini sih?" | "Aku kurang paham alasan di balik pendekatan ini, bisa dijelaskan? Mungkin ada cara lain yang lebih sesuai konvensi kita." | Mengajukan pertanyaan, bukan menghakimi |
