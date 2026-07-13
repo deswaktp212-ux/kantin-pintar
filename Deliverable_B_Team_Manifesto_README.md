@@ -138,9 +138,9 @@ Dengan menyepakati dokumen ini, seluruh anggota tim berkomitmen untuk:
 
 | Nama Anggota | Peran | Tanda Tangan / Persetujuan |
 |---|---|---|
-| _______________ | Backend Developer | _______________ |
-| _______________ | Frontend Developer | _______________ |
-| _______________ | Scrum Master & QA | _______________ |
+| Surya | Backend Developer | _______________ |
+| Kaffa | Frontend Developer | _______________ |
+| Deswa | Scrum Master & QA | _______________ |
 
 ---
 
